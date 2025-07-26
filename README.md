@@ -20,7 +20,7 @@ This project demonstrates a classification model built using a Jupyter Notebook.
 
 ## 📄 How to Run
 
-1. Open the notebook `Untitled34.ipynb` in Google Colab or Jupyter.
+1. Open the notebook  in Google Colab or Jupyter.
 2. Run the cells sequentially.
 3. Analyze the classification performance outputs.
 
